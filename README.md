@@ -1,11 +1,9 @@
 ### Hi, I'm Courtney 👋
 
-✨ I'm a software engineer who specializes in the front end. ✨
+✨ I'm currently a Senior Business Analyst with a background in engineering. ✨
 
-⭐️ **I currently work with**: React + GraphQL
+⭐️ **My tech stack**: React + GraphQL
 
-⭐️ **In my spare time I enjoy**: Playing Animal Crossing, Reading, and riding my Peloton
-
-⭐️ **Currently working on**: My website + learning GreenSock
+⭐️ **In my spare time I enjoy**: Learning about health and nutrition, reading, and being outdoors
 
 If you want to chat, find me on twitter: [@courtneyecorlew](https://twitter.com/courtneyecorlew)
