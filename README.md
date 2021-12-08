@@ -1,8 +1,6 @@
 ### Hi, I'm Courtney 👋
 
-✨ I'm currently a Senior Business Analyst with a background in engineering. ✨
-
-⭐️ **My tech stack**: React + GraphQL
+✨ After spending 3 years in engineering, I made a transition to work as a product manager. ✨
 
 ⭐️ **In my spare time I enjoy**: Learning about health and nutrition, reading, and being outdoors
 
